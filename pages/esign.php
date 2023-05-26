@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     ESign
-                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/esign.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://shadyarhassan1.github.io/ShadyarStore2/"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
